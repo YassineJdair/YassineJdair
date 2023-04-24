@@ -1,6 +1,6 @@
 <p align="center">
     <samp>
-      Hi, <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> my name is  Yassine Jdair  <a href="https://github.com/YassineJdair"> @YassineJdair :octocat:</a> Im a Student at Atlantic Technological University Galway Campus studying Software Development.
+      Hi, my name is  Yassine Jdair  <a href="https://github.com/YassineJdair"> @YassineJdair :octocat:</a> Im a Student at Atlantic Technological University Galway Campus studying Software Development.
     </samp>
   </p>
   
