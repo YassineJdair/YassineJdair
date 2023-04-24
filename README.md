@@ -22,6 +22,7 @@
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineJdair&theme=bear&layout=compact" />
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineJdair)](https://github.com/YassineJdair/github-readme-stats)
 </p>
 
 # YassineJdair
