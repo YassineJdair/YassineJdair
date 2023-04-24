@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=YassineJdair" />      (https://github.com/YassineJdair/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=YassineJdair" />  
+ <img src="https://github.com/YassineJdair/github-readme-stats" /> 
 </p>
 
 # YassineJdair
