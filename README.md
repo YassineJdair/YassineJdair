@@ -21,7 +21,6 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=YassineJdair" />  
 </p>
 
 # YassineJdair
