@@ -5,12 +5,6 @@
   </p>
   
   <hr>
-  
-<p align="center">
-  <samp>
-    Feel free to check out my Learning Repo :mag: at https://github.com/LearnWithYassineJdair, Here you can find some of the Tools and Languages I am currently learning and testing.:mortar_board:
-  </samp> 
-</p>
 
  <hr>
 
