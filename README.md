@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Implementation+Engineer+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Code+Craftsman;Turning+Ideas+into+Software+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Software Engineer+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Code+Craftsman;Turning+Ideas+into+Software+%F0%9F%9A%80" />
 </p>
 
 <hr>
