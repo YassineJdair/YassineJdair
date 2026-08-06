@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yassine+Jdair;Software+Engineer+%7C+Implementation+Specialist;Problem+Solver+%7C+Builder" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Software Engineer | Implementation Specialist | Problem Solver</h3>
+<h3 align="center">Software Engineer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/YassineJdair">
