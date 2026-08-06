@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Implementation Engineer @ **Blocworx**
+- 💼 Software Engineer @ **Dell**
 - 🎓 Software Development graduate from **Atlantic Technological University (Galway)**
 - 🚀 Passionate about building real-world solutions through technology
 - 🧠 Currently exploring: **AI integrations, automation, and cloud architecture**
@@ -61,7 +61,7 @@
 
 ### 🔥 What I'm Working On
 
-- 🤖 Automating business workflows (Blocworx projects)
+- 🤖 Automating workflows and internal tooling
 - ☁️ Exploring scalable cloud-based architectures
 - 🧩 Building tools that reduce manual work for businesses
 
