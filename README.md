@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yassine+Jdair;Software+Engineer+%7C+Implementation+Specialist;Problem+Solver+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yassine+Jdair;Software+Engineer+%40+Dell;Problem+Solver+%7C+Builder" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Software Engineer | Problem Solver</h3>
+<h3 align="center">Software Engineer @ Dell | Problem Solver | Builder</h3>
 
 <p align="center">
   <a href="https://github.com/YassineJdair">
@@ -73,7 +73,12 @@
   <a href="https://github.com/YassineJdair">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <!-- Add LinkedIn here if you want -->
+  <a href="https://www.linkedin.com/in/yassinejdair/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yassinejdair.dev">
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
