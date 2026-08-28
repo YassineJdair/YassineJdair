@@ -43,6 +43,9 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=YassineJdair&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" height="165"/>
   <img src="https://streak-stats.demolab.com?user=YassineJdair&theme=radical&hide_border=false&mode=weekly" height="165"/>
+  ## 📊 GitHub Analytics
+
+![Yassine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YassineJdair&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 </p>
 
 <p align="center">
